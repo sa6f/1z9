@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sayyed Saif (aka 0xsa1f)
-- 👀 I’m interested in coding & hacking stuffs
+- 👀 I’m interested in coding & hacking.
 - 📫 Contact: 0xs41f@gmail.com
 
 <!---
