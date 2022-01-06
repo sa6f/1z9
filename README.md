@@ -29,4 +29,4 @@ jobs:
             - name: AniList readme workflow
               uses: pxseu/anilist-readme@v1.2.1
               with:
-                  user_id: 0xsa1f
+                  user_id: 0xs41f
