@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Sayyed Saif (aka 0xsa1f)
-- 👀 I’m interested in coding & hacking.
-- 📫 Contact: 0xs41f@gmail.com
+### Hi, I’m Saif 👋
+- 👨‍💻 I’m interested in coding & hacking.
+- 📧 Contact: 0xs41f@gmail.com
 
 <!---
 0xsa1f/0xsa1f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
