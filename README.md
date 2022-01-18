@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xsa1f&label=Profile%20views&color=0e75b6&style=flat" alt="0xsa1f" /> </p>
 
-- 👨‍💻 I’m currently working on [Making bots & websites]
-
-- 📚 I’m currently learning **Python, c++, javascript**
+- 📚 I’m currently trying to learn **Python**
 
 - 📫 How to reach me **0xs41f@gmail.com**
 
