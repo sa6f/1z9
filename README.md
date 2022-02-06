@@ -2,6 +2,6 @@
 
 I code, pretent to know basics of coding, likes to watch football and pat nekos.
 
-[My site](https://about.me/sa1f) / [My projects](https://youtu.be/RQmEERvqq70)
+[My site](https://about.me/sa1f) / [My projects](https://youtu.be/iik25wqIuFo)
 
 Have fun looking around here!
