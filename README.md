@@ -2,7 +2,7 @@
 
 I code, pretent to know basics of coding, likes to watch football and pat nekos.
 
-[My site](https://solo.to/1z9) / [My projects](https://)
+[My site](https://solo.to/1z9w7hwu) / [My projects](https://)
 
 Have fun looking around here!
 
