@@ -10,5 +10,3 @@ Have fun looking around here!
 
 ![1z9's github stats](https://github-readme-stats.vercel.app/api?username=1z9&show_icons=true&theme=tokyonight)
 
-<img align="right" alt="count" src="https://count.getloli.com/get/@:1z9?theme=rule34">
-<img align="left" width="480"
