@@ -6,5 +6,3 @@ I'm Saif, my life consists of playing video games and watching anime.
 
 Have fun looking around here!
 
-<div style="width: 10px;"></div>
-<a  href="https://discord.gg/UYHQFyNxeu"><img align="right" src="https://discordapp.com/api/guilds/914797672907563041/widget.png?style=banner4"/></a>
